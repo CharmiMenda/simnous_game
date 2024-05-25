@@ -1,1 +1,1 @@
-# simnous_game
+# simons-game
